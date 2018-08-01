@@ -1,1 +1,0 @@
-# usb-rubber-ducky
